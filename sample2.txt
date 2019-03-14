@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Good day
-=======
-Good morning
->>>>>>> branch1
